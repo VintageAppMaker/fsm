@@ -98,5 +98,5 @@ if문을 적게사용하면서 **상태를 관리**하고자 하는 것이다.
 ![](/data/debug.gif)
 
 
-[블로그원본포스팅](http://blog.naver.com/adsloader/50139711121)
+[블로그원본포스팅](http://blog.naver.com/adsloader/50020615243)
 
