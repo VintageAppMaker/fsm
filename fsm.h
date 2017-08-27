@@ -48,7 +48,7 @@
  {
  public:
      typedef int (CFSM::*Action)(CFSM_EVT);
-     CFSM(){StateHandler = 0; }
+     CFSM(){StateHandler = &CFSM::doNothing; }
  
      enum state{
          COMPLETE = 0,  // 메시지 처리 완료
